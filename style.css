@@ -1,0 +1,42 @@
+img
+{
+    border: 7px solid black;
+    border-radius: 15px;
+}
+h1 
+{
+    display: block;
+    margin: 20px auto  ;
+    text-align:center;
+    width: fit-content;
+    background-color: black;
+    color: white;
+ border: 3px solid white;
+    padding: 30px;
+    border-radius: 10px;
+}
+body
+{
+    background-image: url(Background.jpg);
+}
+p {
+
+    font-size: larger;
+    text-align: center;
+    background-color: white;
+    color: black;
+    border: 3px solid darkgrey;
+    padding: 30px;
+    border-radius: 25px;
+}
+h2
+{
+    width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+    color: black;
+    border: 5px solid black;
+    padding: 30px;
+    border-radius: 15px;
+}
